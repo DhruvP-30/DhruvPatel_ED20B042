@@ -1,0 +1,69 @@
+
+.NavbarItems{
+    background-color:rgb(1, 58, 58);
+    height: 45px;
+}
+
+.navbar-logo{
+    font-size: 30px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+    color: rgb(228, 66, 48);
+}
+
+h2.nav-links1{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 800px;
+    margin-top: -55px;
+    color: rgb(228, 66, 48);
+}
+
+h2.nav-links2{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 900px;
+    margin-top: -55px;
+    color: rgb(228, 66, 48);
+}
+
+h2.nav-links3{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1090px;
+    margin-top: -55px;
+    color: rgb(228, 66, 48);
+}
+
+h2.nav-links4{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1210px;
+    margin-top: -55px;
+    color: rgb(228, 66, 48);
+}
+
+h2.nav-links5{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1380px;
+    margin-top: -55px;
+    color: rgb(228, 66, 48);
+}
+
+h2.nav-links6{
+    font-size: 25px;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 680px;
+    margin-top: -51px;
+    color: rgb(228, 66, 48);
+    text-decoration: underline;
+}
+
